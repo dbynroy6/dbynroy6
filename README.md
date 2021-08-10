@@ -15,10 +15,18 @@ Welcome to my Github Profile
 <li>Java</li>
 <li>Bash(rc)</li>
 </ul>
-<h5>Self learned (Only Basics, or not even that) :</h5>
+<h3>Self learned (Only Basics, or not even that) :</h3>
 <ul style="list-style-type:disc">
 <li>Python</li>
 <li>C</li>
 <li>C++</li>
+<li>JavaScript</li>
 </ul>
-
+<h1>Likes :</h1>
+<ul style="list-style-type:disc">
+<li>Programming</li>
+<li>Music</li>
+<li>Mathematics</li>
+<li>Science and Technology</li>
+<li>Football</li>
+</ul>
