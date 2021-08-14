@@ -1,4 +1,4 @@
-<h1 style="text-align:center">
+<h1 style="text-align: center;">
 Hello World..
 </h1>
 <p> 
@@ -7,10 +7,10 @@ and a semister ranked Security Developer
 <br>
 servicing in <a href="https://github.com/google">Google LLC</a>
 <br>
-<h1 style="text-align:center">
+<h1 style="color: green; text-align: center;">
 Welcome to my Github Profile
 </h1>
-<h1>Skills</h1>
+<h1>style="color:red; text-align:center;" Skills</h1>
 <ul style="list-style-type:disc">
 <li>Java</li>
 <li>Bash(rc)</li>
