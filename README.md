@@ -8,6 +8,7 @@ and a semister ranked Security Developer
 servicing in <a href="https://github.com/google">Google LLC</a>
 <br>
 <h1>Welcome to my Github Profile</h1>
+
 ```java
 while(u.like().myways() == true)
 {
@@ -16,6 +17,7 @@ while(u.like().myways() == true)
   continue;
 }
 ```
+
 <h1>Skills</h1>
 <ul style="list-style-type:disc">
 <li>Java</li>
