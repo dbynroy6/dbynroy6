@@ -8,10 +8,6 @@ and a semister ranked Security Developer
 servicing in <a href="https://github.com/google">Google LLC</a>
 <br>
 <h1>Welcome to my Github Profile</h1>
-<script> 
-var today = new Date();
-document.write("Visited on : "+today);
-</script>
 <h1>Skills</h1>
 <ul style="list-style-type:disc">
 <li>Java</li>
