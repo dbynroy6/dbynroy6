@@ -3,7 +3,7 @@ Hello World..
 </h1>
 <p> 
 I am Debayan Roy, A passionate Programmer
-and a semister ranked Security Developer
+and a Security Developer
 <br>
 servicing in <a href="https://github.com/google">Google LLC</a>
 <br>
