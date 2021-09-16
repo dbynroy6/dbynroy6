@@ -7,6 +7,9 @@ and a Security Developer
 <br>
 servicing in <a href="https://github.com/google">Google LLC</a>
 <br>
+<div align="center">
+	<img width="500" height="350" src="https://images.app.goo.gl/PHDZSZqgrvfv77XU9" alt="Google">
+</div>
 <h1>Welcome to my Github Profile</h1>
 
 ```java
