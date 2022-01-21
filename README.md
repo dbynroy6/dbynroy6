@@ -2,10 +2,7 @@
 Hello World..
 </h1>
 <p> 
-I am Debayan Roy, A passionate Programmer
-and a Security Developer
-<br>
-servicing in <a href="https://github.com/google">Google LLC</a>
+I am Debayan Roy
 <br>
 <h1>Welcome to my Github Profile</h1>
 
@@ -17,24 +14,62 @@ while(u.like().myways() == true)
   continue;
 }
 ```
-
-<h1>Skills</h1>
-<ul style="list-style-type:disc">
-<li>Java</li>
-<li>Bash(rc)</li>
-</ul>
-<h3>Self learned (Only Basics, or not even that) :</h3>
-<ul style="list-style-type:disc">
-<li>Python</li>
-<li>C</li>
-<li>C++</li>
-<li>JavaScript</li>
-</ul>
-<h1>Likes :</h1>
-<ul style="list-style-type:disc">
-<li>Programming</li>
-<li>Music</li>
-<li>Mathematics</li>
-<li>Science and Technology</li>
-<li>Football</li>
-</ul>
+<hr>
+<hr>
+<hr>
+```java
+public class Myself
+{
+  public enum My 
+  {
+    about("This is my bio data");
+    public enum Name
+    {
+      firstName("Debayan"), 
+      lastName("Roy"), 
+      userName("dbynroy6");
+      private String s; 
+      Name(String s)
+      {
+        this.s = s;
+      }
+    }
+    public enum Favourite
+    {
+      food("Anything"),
+      drink("Coffee"),
+      pLang("Java"),
+      subj("Maths");
+      private String s;
+      Favourite(String s)
+      {
+        this.s = s;
+      }
+    }
+    public enum Interests
+    {
+      i1("Programming"),
+      i2("Advanced Calculus"),
+      i3("Electric Circuits"),
+      i4("Blackholes"),
+      i5("Aerodynamics"),
+      i6("Football");
+      private String s;
+      Interests(String s)
+      {
+        this.s = s;
+      } 
+    } 
+    private String s;
+    My(String s)
+    {
+      this.s = s;
+    }
+  }
+  public static void main(String[] args)
+  {
+    String s = My.Favourite.pLang.s;
+    System.out.println(s);
+  }
+}
+```
