@@ -7,17 +7,6 @@ I am Debayan Roy
 <h1>Welcome to my Github Profile</h1>
 
 ```java
-while(u.like().myways() == true)
-{
-  System.out.println("Learn from me but don’t tend to copy me");
-  u.learn().from_me();
-  continue;
-}
-```
-<hr>
-<hr>
-<hr>
-```java
 public class Myself
 {
   public enum My 
@@ -73,3 +62,7 @@ public class Myself
   }
 }
 ```
+<hr>
+<hr>
+<hr>
+
